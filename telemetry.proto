@@ -20,7 +20,7 @@
  */
 
 syntax = "proto3";
-option go_package = "./";
+option go_package = "./proto";
 
 package telemetry;
 
